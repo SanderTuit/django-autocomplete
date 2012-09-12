@@ -4928,7 +4928,8 @@
   background-position: 0 -22px;\
 }\
 /* Custom */\
-fieldset.module .tags {\
+fieldset.module .tags,
+fieldset.grp-module .tags {\
   overflow: visible;\
 }\
 ');
